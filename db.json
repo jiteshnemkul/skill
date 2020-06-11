@@ -1,14 +1,7 @@
-[
 {
-"id": 1,
-"skill": "Tracking"
-},
-{
-"id": 2,
-"skill": "Shooter"
-},
-{
-"id": 3,
-"skill": "Special agent"
+  "skills": [
+    { "id": 1, "title": "Tracking" },
+    { "id": 2, "title": "Shooter" },
+    { "id": 3, "title": "Special agent" }
+  ]
 }
-]
